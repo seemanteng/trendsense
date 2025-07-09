@@ -1,6 +1,18 @@
 # TrendSense 
 
 Real-time Singapore news and social media trend analyzer with sentiment analysis and interactive visualization
+<div align="center">
+<img width="1424" alt="tab1" src="https://github.com/user-attachments/assets/daa8c441-8286-4e4f-b66d-9a9dfec09c18" />
+</div>
+<div align="center">
+<img width="1420" alt="tab2" src="https://github.com/user-attachments/assets/7a3c6b43-925e-42b2-a541-8e475c7a3ed0" />
+</div>
+<div align="center">
+<img width="1425" alt="tab3" src="https://github.com/user-attachments/assets/2dbe9b68-013e-48e8-84fe-027b6527df8c" />
+</div>
+<div align="center">
+<img width="1412" alt="tab4" src="https://github.com/user-attachments/assets/3f2e505f-23c1-4771-b2d5-c7b0a5144bdd" />
+</div>
 
 
 # Features
